@@ -49,15 +49,8 @@ O público-alvo deste artigo são vítimas de violência doméstica que desejam 
 
 Numa edição anterior deste artigo, havia menções a ferramentas e técnicas específicas utilizadas para encontrar pessoas ou informações sobre elas, de modo a demonstrar o quão fácil era realizar estes atos de descoberta, contudo, tendo em consideração a temática deste artigo e a sua exposição, essas referências foram removidas de modo a não fornecer informação a um eventual abusador que encontre o artigo.
 
-```ad-info
-
-
-```
-
-
->ad-info
-title: O autor
->O autor trabalha na área de cibersegurança e escreveu o artigo de forma a que quem implemente as principais práticas sugeridas aqui, coseguirá "desparecer" online e esconder-se de pelo menos 95% das pessoas que possivelmente lhe queiram fazer mal. >Caso implemente a larga maioria das práticas, nem mesmo o autor e outras pessoas com capacidades ou conhecimentos semelhantes iriam ter a capacidade de encontrar a/o leitor sem ajuda profissional/governamental
+> [!info] O autor
+> O autor trabalha na área de cibersegurança e escreveu o artigo de forma a que quem implemente as principais práticas sugeridas aqui, coseguirá "desparecer" online e esconder-se de pelo menos 95% das pessoas que possivelmente lhe queiram fazer mal. >Caso implemente a larga maioria das práticas, nem mesmo o autor e outras pessoas com capacidades ou conhecimentos semelhantes iriam ter a capacidade de encontrar a/o leitor sem ajuda profissional/governamental
 
 # Nível de ameaça
 
@@ -80,11 +73,8 @@ Para criar o modelo de segurança e determinar o nível de ameaça em que estamo
 	1. Esta é geralmente a pergunta mais difícil de responder, especialmente quando uma pessoa não tenho conhecimento prévio suficiente da área para saber o esforço que uma decisão poderá implicar.
 	2. Tendo em conta a dificuldade em encontrar ou fazer mal a alguém que siga as recomendações basilares, iremos trabalhar neste artigo sobre a presunção de que o esforço inicial necessário e algum cuidado e atenção contínua é todo o esforço necessário a que o leitor se dispõe a fazer.  
 
-```ad-warning
-title: Auto determinação
-O autor deste artigo faz alguma assunções sobre os perigos que o/a leitor/a pode correr, que podem não se adequar ao caso específico do/a leitor/a. É importante cada pessoa ponderar qual o seu modelo de ameaça, e com os conhecimentos que têm e que irá adquirir neste artigo, criar o seu próprio modelo.
-```
-
+> [!warning] Auto determinação 
+> O autor deste artigo faz alguma assunções sobre os perigos que o/a leitor/a pode correr, que podem não se adequar ao caso específico do/a leitor/a. É importante cada pessoa ponderar qual o seu modelo de ameaça, e com os conhecimentos que têm e que irá adquirir neste artigo, criar o seu próprio modelo.
 
 # Recomendações basilares
 
@@ -102,10 +92,9 @@ Nos dias de hoje em países com um mínimo avanço tecnológico a vida das pesso
 - Mudar as palavras-passes, números de telemóveis e emails em todos os serviços informáticos, para as novas versões;
 - Usar um password manager como o [Bitwarden](https://bitwarden.com/)(recomendado) ou [LastPass](https://www.lastpass.com/pt) para criar palavras-passes fortes( múltiplos carácteres com símbolos e números) e as guardar;
 
-```ad-note
-title: Nota
+> [!note] Nota
 Neste artigo vai se falar de todos os tópicos mencionados nas recomendações basilares, explicar o porquê de serem necessárias, dentro do possível e sem dar ferramentas a agressores. Adicionalmente há algumas ferramentas de proteção/privacidade pessoal mencionadas durante o artigo
-```
+
 # Principais preocupações
 
 Como mencionado previamente, no século XXI em países tecnologicamente avançados é quase impossível viver como uma pessoa sem telemóvel e email. É necessário email para serviços financeiros públicos, para o banco, para as comunicações com fornecedores de água e luz, e o mesmo se aplica para telemóvel. Tendo em conta a facilidade em obter informações pessoais, incluindo localização em tempo real de uma pessoa, estas tecnologias vão ser as nossas principais preocupação.
@@ -137,7 +126,7 @@ A forma mais fácil de memorizar palavras-passes é não ter que as memorizar de
 
 Após criar um novo email, é recomendado criar uma conta no Bitwarden e começar a usar o mesmo para gerar palavras-passes, as quais podemos depois utilizar no registo de contas ou atualização de contas. 
 
-![[Pasted image 20240517183125.png#center | 250]]
+![[Pasted image 20240517183125.png | 250]]
 
 Se o/a leitor/a decidir utilizar o Bitwarden como um [plug-in no Browser](https://bitwarden.com/help/getting-started-browserext/)(imagem acima), irá simplificar a sua vida, pois o mesmo detecta quando estão a ser introduzidas credenciais de acesso(username e password) e vai perguntar ao utilizador se deseja guardar estas informações no cofre do Bitwarden, ao qual se deve indicar que sim:
 

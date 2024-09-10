@@ -1,5 +1,5 @@
 
-
+![[Pasted image 20240911000701.png | center | 100]]
 # Choose the language and country
 
 #### <u>Portuguese:</u>
@@ -29,6 +29,9 @@ Sometimes, the law might not be supportive or fast enough to help victims and pe
 # Inform yourself
 
 Discover organizations near you that might be able to help:
+
+[Helpline near me](https://findahelpline.com/countries/pt/topics/abuse-domestic-violence)
+### Organizations: 
 
 > [!info]- Worldwide
 > [Refuge.org](https://refuge.org.uk/)
