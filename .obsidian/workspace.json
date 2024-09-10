@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f46c3108c278271d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PT - Privacidade e segurança online para vítimas de violência doméstica, abuso sexual e assédio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f94f5aa96d659e5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PT - Privacidade e segurança online para vítimas de violência doméstica, abuso sexual e assédio.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PT - Privacidade e segurança online para vítimas de violência doméstica, abuso sexual e assédio.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PT - Privacidade e segurança online para vítimas de violência doméstica, abuso sexual e assédio.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PT - Privacidade e segurança online para vítimas de violência doméstica, abuso sexual e assédio.md"
+                "file": "Homepage.md"
               }
             }
           }
@@ -160,12 +148,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f46c3108c278271d",
+  "active": "f94f5aa96d659e5e",
   "lastOpenFiles": [
+    "Portugal - Online privacy and security for Domestic Violence, Sexual Assault and harassment  victims.md",
+    "Homepage.md",
+    "Portugal - Privacidade e segurança online para vítimas de violência doméstica, abuso sexual e assédio.md",
     "README.md",
+    "[[PT.md",
     "LICENSE",
-    "EN - Online privacy and security for Domestic Violence, Sexual Assault and harassment  victims.md",
-    "PT - Privacidade e segurança online para vítimas de violência doméstica, abuso sexual e assédio.md",
     "Images/Pasted image 20240606005209.png",
     "Images/Pasted image 20240606004958.png",
     "Images/Pasted image 20240605150914.png",
