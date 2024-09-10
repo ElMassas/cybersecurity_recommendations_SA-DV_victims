@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "694fa87e4145519f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d957d3fe79cefdf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f46c3108c278271d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PT - Privacidade e segurança online para vítimas de violência doméstica, abuso sexual e assédio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f94f5aa96d659e5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PT - Privacidade e segurança online para vítimas de violência doméstica, abuso sexual e assédio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05e6bdcb6f060858",
+    "type": "split",
+    "children": [
+      {
+        "id": "467c30a73fb7d3fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c880a94705b5f4c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e0b683f6dabbf2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa9d75d1c5178a55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "521079ac28fb2a8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "842be1e670fe1524",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46e09ee0b35fd3e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PT - Privacidade e segurança online para vítimas de violência doméstica, abuso sexual e assédio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7bf8d290ec219d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PT - Privacidade e segurança online para vítimas de violência doméstica, abuso sexual e assédio.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e007cc4b78d4b1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ec8b4a1f41307ccb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PT - Privacidade e segurança online para vítimas de violência doméstica, abuso sexual e assédio.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "f46c3108c278271d",
+  "lastOpenFiles": [
+    "EN - Online privacy and security for Domestic Violence, Sexual Assault and harassment  victims.md",
+    "PT - Privacidade e segurança online para vítimas de violência doméstica, abuso sexual e assédio.md",
+    "Images/Pasted image 20240606005209.png",
+    "Images/Pasted image 20240606004958.png",
+    "Images/Pasted image 20240605150914.png",
+    "Images/Pasted image 20240605144425.png",
+    "Images/Pasted image 20240605153146.png",
+    "Images/Pasted image 20240517183608.png",
+    "Images/Pasted image 20240517183125.png",
+    "Images/Pasted image 20240517175846.png",
+    "Images",
+    "Welcome.md"
+  ]
+}
