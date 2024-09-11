@@ -1,5 +1,4 @@
 
-![[Pasted image 20240911000701.png | center | 100]]
 # Choose the language and country
 
 #### <u>Portuguese:</u>
@@ -10,6 +9,11 @@
 #### <u>English:</u>
 - Country:
 	- [[Portugal - Online privacy and security for Domestic Violence, Sexual Assault and harassment  victims]]
+
+
+> [!note] Current state
+> At this moment this project only has articles for Portugal. **However**, it is important to know that most recommendations and guidelines that refer to Portugal, will apply to most countries in Europe, North America, Australia and New Zealand.
+> Regardless of existing an article for your country or not, you will certainly gain insights and increase your privacy and security if you read the existing articles.
 
 ---
 # Intended audience

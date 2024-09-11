@@ -1,4 +1,3 @@
-
 # Índice 
 
 - [[#Introdução]]
@@ -12,7 +11,7 @@
 		- [[#Smartphones ]]
 	- [[#Em quem confiar]]
 	- [[#Encomendas - Compras online]]
-	- [[#Redes sociais]]\
+	- [[#Redes sociais]]
 	- [[#Inteligência Artificial]]
 - [[#Aplicações de comunicação online]]
 - [[#Internet]]
@@ -49,12 +48,13 @@ O público-alvo deste artigo são vítimas de violência doméstica que desejam 
 
 Numa edição anterior deste artigo, havia menções a ferramentas e técnicas específicas utilizadas para encontrar pessoas ou informações sobre elas, de modo a demonstrar o quão fácil era realizar estes atos de descoberta, contudo, tendo em consideração a temática deste artigo e a sua exposição, essas referências foram removidas de modo a não fornecer informação a um eventual abusador que encontre o artigo.
 
-> [!info] O autor
-> O autor trabalha na área de cibersegurança e escreveu o artigo de forma a que quem implemente as principais práticas sugeridas aqui, coseguirá "desparecer" online e esconder-se de pelo menos 95% das pessoas que possivelmente lhe queiram fazer mal. >Caso implemente a larga maioria das práticas, nem mesmo o autor e outras pessoas com capacidades ou conhecimentos semelhantes iriam ter a capacidade de encontrar a/o leitor sem ajuda profissional/governamental
+> [!Info] O autor e a comunidade
+> O autor trabalha na área de cibersegurança e escreveu o artigo de forma a que quem implemente as principais práticas sugeridas aqui, conseguirá "desaparecer" online e esconder-se de pelo menos 95% das pessoas que possivelmente lhe queiram fazer mal.
+> Adicionalmente este projeto é um **esforço de comunidade**, em que pessoas da área de cibersegurança e organizações de apoio a vítimas de violência doméstica dão o seu contributo a este projeto.
 
 # Nível de ameaça
 
-Em ciber-segurança é costume definir [modelos de ameaça](https://www.privacyguides.org/en/basics/threat-modeling/) para tentar analisar o que é mais importante proteger. Isto porque é impossível manter sempre o anonimato, e garantir a privacidade e segurança em todos os momentos. Se alguém o tentasse fazer iria certamente gastar todo o seu tempo nesta atividade constante de análise e ação para ameaças que realisticamente serão infinitésimas.
+Em ciber-segurança é costume definir [modelos de ameaça](https://www.privacyguides.org/en/basics/threat-modeling/) para tentar analisar o que é mais importante proteger e a nossa superfície de ataque pessoal. Isto porque é impossível manter sempre o anonimato, e garantir a privacidade e segurança em todos os momentos. Se alguém o tentasse fazer iria certamente gastar todo o seu tempo nesta atividade constante de análise e ação para ameaças que realisticamente serão infinitésimas.
 
 Para criar o modelo de segurança e determinar o nível de ameaça em que estamos é necessário responder a estas perguntas:
 
@@ -73,7 +73,7 @@ Para criar o modelo de segurança e determinar o nível de ameaça em que estamo
 	1. Esta é geralmente a pergunta mais difícil de responder, especialmente quando uma pessoa não tenho conhecimento prévio suficiente da área para saber o esforço que uma decisão poderá implicar.
 	2. Tendo em conta a dificuldade em encontrar ou fazer mal a alguém que siga as recomendações basilares, iremos trabalhar neste artigo sobre a presunção de que o esforço inicial necessário e algum cuidado e atenção contínua é todo o esforço necessário a que o leitor se dispõe a fazer.  
 
-> [!warning] Auto determinação 
+> [!Warning] Auto determinação 
 > O autor deste artigo faz alguma assunções sobre os perigos que o/a leitor/a pode correr, que podem não se adequar ao caso específico do/a leitor/a. É importante cada pessoa ponderar qual o seu modelo de ameaça, e com os conhecimentos que têm e que irá adquirir neste artigo, criar o seu próprio modelo.
 
 # Recomendações basilares
@@ -99,7 +99,6 @@ Neste artigo vai se falar de todos os tópicos mencionados nas recomendações b
 
 Como mencionado previamente, no século XXI em países tecnologicamente avançados é quase impossível viver como uma pessoa sem telemóvel e email. É necessário email para serviços financeiros públicos, para o banco, para as comunicações com fornecedores de água e luz, e o mesmo se aplica para telemóvel. Tendo em conta a facilidade em obter informações pessoais, incluindo localização em tempo real de uma pessoa, estas tecnologias vão ser as nossas principais preocupação.
 
----
 > [!Warning] Atenção
 > Tentando ao máximo não partilhar mais informação do que o necessário. O computador/telemóvel da vítima(leitor/a) pode estar comprometido, e o abusador pode saber tudo o que a vítima faz no computador. Se o/a leitor/a acha ou sabe que alguém que lhe esteja a causar mal têm o mínimo conhecimento tecnológico, o autor recomenda formatar o seu computador e/ou telemóvel antes de seguir com os passos indicados neste artigo. Instruções podem ser encontradas aqui:
 > 
@@ -110,11 +109,11 @@ Como mencionado previamente, no século XXI em países tecnologicamente avançad
 > 
 > Ao formatar certifique-se que está a fazer uma limpeza total, isto significa não deixar nenhuma aplicação instalada nem nenhuma fotografia. Absolutamente nada, o computador/telemóvel deve de ser retornado ao base como se tivesse acabado de sair de fábrica.
 
----
+
 ## Email
 
 O email é algo fácil de tratar e resolver, contudo, dependendo do número de contas associadas aos emails que o/a leitor/a poderá ter, pode ser um trabalho chato e demorado fazer a alteração do email associado a estas contas para o novo email.
-O autor sugere alterar a palavra-passe dos emails atualmente utilizados para uma nova versão, e que **só depois deste acto**, se crie um novo email, com qualquer serviço de email que o/a leitor/a desejar, ou [Gmail](https://www.google.com/intl/pt-PT/gmail/about/), ou [Outlook](https://www.microsoft.com/pt-pt/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) ou ainda o mais seguro destes: [Protonmail](https://proton.me/pt/mail).
+O autor sugere alterar a palavra-passe dos emails atualmente utilizados para uma nova versão, e que **só depois deste acto**, se crie um novo email, com qualquer serviço de email que o/a leitor/a desejar, ou [Gmail](https://www.google.com/intl/pt-PT/gmail/about/), ou [Outlook](https://www.microsoft.com/pt-pt/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) ou ainda o mais seguro e privado destas opções: [Protonmail](https://proton.me/pt/mail).
 
 O email deve de ser algo banal que não indique quaisquer informações sobre nós: 123bi45@gmail.com.
 
@@ -126,11 +125,11 @@ A forma mais fácil de memorizar palavras-passes é não ter que as memorizar de
 
 Após criar um novo email, é recomendado criar uma conta no Bitwarden e começar a usar o mesmo para gerar palavras-passes, as quais podemos depois utilizar no registo de contas ou atualização de contas. 
 
-![[Pasted image 20240517183125.png | 250]]
+![[bitwarden.png| 250]]
 
 Se o/a leitor/a decidir utilizar o Bitwarden como um [plug-in no Browser](https://bitwarden.com/help/getting-started-browserext/)(imagem acima), irá simplificar a sua vida, pois o mesmo detecta quando estão a ser introduzidas credenciais de acesso(username e password) e vai perguntar ao utilizador se deseja guardar estas informações no cofre do Bitwarden, ao qual se deve indicar que sim:
 
-![[Pasted image 20240517183608.png]]
+![[bitwarden_credential_storage.png]]
 
 Adicionalmente ==é altamente recomendado que o/a leitor/a utilize autenticação de 2 etapas em todos os serviços que assim o permitirem==. [Autenticação de 2 etapas](https://www.microsoft.com/en-us/security/business/security-101/what-is-two-factor-authentication-2fa) é apenas uma forma de verificar que quem está a utilizar um serviço é mesmo a/o dona/o da conta. 
 **Por exemplo:** Ao fazer login no Gmail num dispositivo(telemóvel) novo, será enviado uma mensagem para o número do dono da conta para que o mesmo autorize o login, comprovando assim que é o dono da conta que está a tentar fazer login.
@@ -144,19 +143,16 @@ Adicionalmente ==é altamente recomendado que o/a leitor/a utilize autenticaçã
 Há muitas formas de rastrear um telemóvel sem que a/o proprietária/o se aperceba.
 Existem serviços online e identificadores únicos que permitem os telemóveis serem localizados - os quais o autor não irá indicar ou partilhar. Estas funcionalidades e aplicações semelhantes podem ser ativadas sem o/a utilizador/a do telemóvel se aperceber, e por isso será sempre melhor trocar de telemóvel. Não sendo possível trocar de telemóvel, o telemóvel deve de ser formatado como previamente indicado no início da secção: [[#Principais preocupações]]. 
 
-```ad-tip
-title: Telemóveis e cartões SIM novos
-Caso seja possível arranjar um telemóvel e/ou cartão SIM novo, é preferível que o mesmo seja comprado com dinheiro e não através de uma transação digital de modo a impedir que o mesmo seja conhecido e possivelmente se saiba o IMEI do novo telemóvel.
-
-Se a/o leitor for a uma loja de telemóveis facilmente poderá encontrar um telemóvel bastante barato por menos de 50€ e o mesmo se aplica a um cartão SIM. Adicionalmente, deve de se comunicar com a operadora telefónica, que para se poder pedir um novo SIM card fisíco deve de ser resposta de segurança, como por exemplo: "Qual o nome do cão do meu vizinho no secundário"
-```
+> [!tip] Telemóveis e cartões SIM novos
+> Caso seja possível arranjar um telemóvel e/ou cartão SIM novo, é preferível que o mesmo seja comprado com dinheiro e não através de uma transação digital de modo a impedir que o mesmo seja conhecido e possivelmente se saiba o IMEI do novo telemóvel.
+> Se a/o leitor for a uma loja de telemóveis facilmente poderá encontrar um telemóvel bastante barato por menos de 50€ e o mesmo se aplica a um cartão SIM. Adicionalmente, deve de se comunicar com a operadora telefónica, que para se poder pedir um novo SIM card fisíco deve de ser resposta de segurança, como por exemplo: "Qual o nome do cão do meu vizinho no secundário"
 
 ### Número de telemóvel
 
 Existem ferramentas que permitem fazer pesquisas de contas em redes sociais e muitas outras plataformas através de números de telemóvel, que infelizmente, são muitas vezes necessários para criar uma conta num serviço online.
 Se o número de telemóvel for conhecido por parte de quem têm más intenções para connosco ou quem nos é próximo, também poderá usar este meio de comunicação como uma fonte de constante perturbação/assédio ao fazer telefonemas constantes, ao registar o nosso número em serviços que não usamos entre outros entre muitas outras formas.
 
-==É recomendado que para o nosso número final, se crie uma nova conta com uma operadora telefónica com um email do qual o nosso abusador não tenha conhecimento e que este número só seja partilhado com as pessoas que são 100% de confiança==. Se for possível que o cartão SIM seja um cartão virtual([eSIM](https://www.vodafone.pt/telemoveis/esim.html)) tanto melhor, pois não irá necessitar de esperar que o cartão seja enviado por correio ou de ter que ir a algum  local fisicamente buscar o cartão, reduzindo assim a sua exposição.
+==É recomendado que para o nosso número de telemóvel final, se crie uma nova conta com uma operadora telefónica usando um email do qual o nosso abusador não tenha conhecimento e que este número só seja partilhado com as pessoas que são 100% de confiança==. Se for possível que o cartão SIM seja um cartão virtual([eSIM](https://www.vodafone.pt/telemoveis/esim.html)) tanto melhor, pois não irá necessitar de esperar que o cartão seja enviado por correio ou de ter que ir a algum  local fisicamente buscar o cartão, reduzindo assim a sua exposição.
 
 ### Smartphones
 
@@ -165,7 +161,7 @@ Os smartphones são uma ferramenta incrivelmente útil tendo funcionalidades de 
 O autor deste artigo não recomenda mudar o Sistema Operativo do telemóvel a todas as pessoas. Contudo, se alguém sentir a necessidade de se proteger e têm receio de utilizar serviços como GPS ou internet, o mais fácil e recomendado seria comprar um telemóvel sem estas capacidades, como por exemplo:
 
 
-![[Pasted image 20240517175846.png#center |256]]
+![[nokia_phone.png#center|256]]
 
 Geralmente um telemóvel que custe menos de 50€ não irá ter funcionalidades de GPS. Telemóveis [Nokia baratos](https://www.hmd.com/pt_pt/nokia-105?sku=1GF019CPA2L12) são geralmente uma ótima opção.
 
@@ -181,10 +177,8 @@ Adicionalmente a imagem pode conter [metadados](https://www.metadados.pt/oquesao
 
 ==**Conclusão**:== Podemos e devemos confiar em pessoas. Somos seres sociais que precisamos de comunicar e prosperamos em grande parte devido a nossa vivência em sociedade. Contudo, podemos e devemos também ser cuidadosos/as, o que na realidade implica não partilhar informação desnecessária e termos noção da informação que partilhamos quando a estamos a partilhar, isto pode incluir fotografias, vídeos, mensagens de voz, e mesmo o que se diz. 
 
-```ad-info
-title: Automação
-Este artigo apresenta algumas ferramentas que simplificam a vida e aumentam a nossa segurança e privacidade, como [[#VPNs]] e gerenciadores de palavras-passes. Ferramentas como estas e outras reduzidem a possibilidade de partilhar informação perigosa mesmo que por acidente.
-```
+> [!info] Automação
+> Este artigo apresenta algumas ferramentas que simplificam a vida e aumentam a nossa segurança e privacidade, como [[#VPNs]] e gerenciadores de palavras-passes. Ferramentas como estas e outras reduzidem a possibilidade de partilhar informação perigosa mesmo que por acidente.
 
 ## Encomendas - Compras online
 
@@ -194,7 +188,7 @@ Este artigo apresenta algumas ferramentas que simplificam a vida e aumentam a no
 
 As redes sociais para quem têm como objetivos investigar pessoas e obter informações privadas são uma fonte de informação sagrada. É genuinamente fácil obter a localização e outras informações através das redes sociais. 
 
-O autor pede ao leitor/a confiança nesta afirmação ao saber que previamente o autor mencionava formas de o fazer de modo a demonstrar a facilidade de o fazer, porém, com mais cuidado e atenção ao tópico em questão estas menções foram removidas.
+**O autor pede ao leitor/a confiança nesta afirmação**. Como previamente mencionado, este artigo continha técnicas e ferramentas de modo a demonstrar a facilidade desta investigação, contudo, foram removidas devido a preocupações de segurança.
 
 Com isto em mente, o/a leitor/a pode seguir alguns destes passos, dependendo do seu modelo de ameaça, de modo a reduzir a sua exposição online:
 1. Eliminar todas as redes sociais
@@ -253,10 +247,8 @@ graph TD;
 
 O maior ponto de preocupação para o cidadão comum que não esteja a lidar com nenhum hacker com conhecimento técnico, ou cidadão que seja algum dissidente político ou até jornalista serão os [[#Browsers]]. Adicionalmente há algumas preocupações que poderão ser tomadas de modo a aumentar a segurança e privacidade da navegação na internet como [[#VPNs]], [[#Firewalls]] e serviços de DNS especializados em segurança e privacidade como: [NextDNS](https://nextdns.io/) e [quad9](https://quad9.net/) 
 
-```ad-note
-title: Nota
-No diagrama foi feita uma simplificação muito grande relativamente ao acesso à internet apenas com o intuito de simplificar e ilustrar os pontos de acesso e comunicação.
-```
+>[!note] Nota
+>No diagrama foi feita uma simplificação muito grande relativamente ao acesso à internet apenas com o intuito de simplificar e ilustrar os pontos de acesso e comunicação.
 
 ## Em casa
 
@@ -287,10 +279,8 @@ Para ativar num computador Mac:
 - [Ativar a proteção por Firewall](https://support.apple.com/pt-pt/guide/mac-help/mh34041/mac)
 Para telemóveis Iphone ou Android, a recomendação é utilizar a aplicação da [Quad9](https://quad9.net/support/set-up-guides) para obter o mesmo efeito de uma firewall.
 
-```ad-tip
-title: Firewalls podem ser utilizadas em conjunto com outros serviços
-Firewalls são uma última linha de defesa para o tráfego que entra e sai dos nossos dispositivos. Podem ser combinados com tecnologias como DNSSEC, blocklists e VPNS
-```
+> [!tip] Firewalls podem ser utilizadas em conjunto com outros serviços
+> Firewalls são uma última linha de defesa para o tráfego que entra e sai dos nossos dispositivos. Podem ser combinados com tecnologias como DNSSEC, blocklists e VPNS
 
 # Computadores
 
@@ -331,7 +321,7 @@ Em geral uma pessoa ira impedir este tipo de ataque se tomar atenção aos segui
 Phishing é um crime que consiste em enganar as pessoas de modo a partilharem informações confidenciais ao impersonificar alguém de importância para a vítima.
 Um método muito comum de praticar ataques de phishing é através de emails em que o autor do crime, se faz passar por alguma entidade que não é, por exemplo:
 
-![[Pasted image 20240605150914.png]]
+![[highlighted_pishing_email.png]]
 
 
 ## Formulários e websites
@@ -350,7 +340,7 @@ Restaurantes modernos têm muitas vezes este códigos QR como links para o seu m
 
 A recomendação mais fácil e de resolução imediata é não analisar estes códigos se possível. 
 
-![[Pasted image 20240605153146.png]]
+![[qr_code.png]]
 
 # Sistema bancário
 
@@ -373,8 +363,8 @@ Exemplo dos dados:
 kMDItemContentCreationDate         = 2008-10-22 15:38:20 +0000
 kMDItemContentModificationDate     = 2008-10-22 15:38:20 +0000
 kMDItemGPSDateStamp                = "2008:10:23"
-kMDItemLatitude                    = 43.46708166666667
-kMDItemLongitude                   = 11.88453833333333
+kMDItemLatitude                    = 43.46708166666667 # GPS data
+kMDItemLongitude                   = 11.88453833333333 # GPS data
 ```
 
 Devemos de desativar estas funcionalidades sempre que possível.
@@ -392,10 +382,8 @@ Estes dispositivos podem ser:
 	- Monitores de bebés
 	- Extensores de rede
 
-```ad-attention
-title: Atenção
-Esta secção é muito importante, porém, para conseguir certificar que os pontos mencionados são bem implementados é necessário bastante conhecimento técnico. Se não detém este conhecimento, ou não conhece ninguém de confiança que os consiga implementar, **a recomendação do autor é mesmo não usar dispostivos inteligentes**.
-```
+> [!warning] Atenção
+> Esta secção é muito importante, porém, para conseguir certificar que os pontos mencionados são bem implementados é necessário bastante conhecimento técnico. Se não detém este conhecimento, ou não conhece ninguém de confiança que os consiga implementar, **a recomendação do autor é mesmo não usar dispostivos inteligentes**.
 
 **Contudo se for uma necessidade**(provavelmente não será), o utilizador deve saber que  certificar que dispositivos IoT são seguros é das preocupações mais difíceis de alcançar, dito isto, aqui ficam alguns pontos introdutórios :
 1. Os dispositivos não estão acessíveis através da internet. Só devem de ser acessíveis se o usuário estiver na mesma rede que o dispositivo(em casa).
@@ -428,9 +416,9 @@ Adicionalmente, deve sempre adicionar este plugin ao seu browser(se não tiver o
 VPNs são uma componente importante para garantir a privacidade e também a sua segurança ao navegar na internet, pois, estes serviços encriptam parcialmente os seus dados enquanto está a navegar a internet, adicionalmente, alteram a localização aparente de um cliente que use uma VPN. 
 
 Antes de ativar a VPN:
-![[Pasted image 20240606004958.png]]
+![[ip_before_vpn.png]]
 Após ligar a VPN:
-![[Pasted image 20240606005209.png]]
+![[ip_after_vpn.png]]
 
 VPNs em conjunto com o uso dos [[#Browsers]] recomendados e as precauções mencionadas na secção da [[#Internet]] e [[#Computadores]], aumentam exponencialmente a sua segurança e privacidade ao navegar na internet.
 
