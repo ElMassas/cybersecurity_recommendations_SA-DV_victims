@@ -9,7 +9,7 @@
 	- [[#Telemóvel]]
 		- [[#Número de telemóvel]]
 		- [[#Smartphones ]]
-	- [[#Em quem confiar]]
+	- [[#Pessoas]]
 	- [[#Encomendas - Compras online]]
 	- [[#Redes sociais]]
 	- [[#Inteligência Artificial]]
@@ -169,7 +169,7 @@ Geralmente um telemóvel que custe menos de 50€ não irá ter funcionalidades 
 >  Mais recursos sobre privacidade e segurança para Iphones e Android pode ser visto aqui: [Link](https://www.youtube.com/watch?v=mzI0s7G6yJE)
 
 
-## Em quem confiar
+## Pessoas
 
 ==A triste realidade é que confiar em alguém será sempre uma aposta com potencial para ter resultados negativos, não necessariamente por malícia mas muitas vezes por falta de cuidado.==
 Imaginemos uma situação em que tiramos uma foto a uma paisagem que vemos da nossa janela e a partilhamos com alguém através do Whatsapp. Há situações em que essa mesma foto pode chegar às mãos de um predador/abusador, quer seja partilha acidental da imagem com terceiros, ou a pessoa com que partilhamos a foto tenha o seu telemóvel infectado com software de espionagem que reencaminha as mensagens para o abusador automaticamente. Existem dezenas de formas de obter acesso a informações nos telemóveis de outra pessoa. 

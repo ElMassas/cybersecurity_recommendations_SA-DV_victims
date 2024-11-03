@@ -1,14 +1,9 @@
 
 # Choose the language and country
 
-#### <u>Portuguese:</u>
-- Country:
-	- [[Portugal - Privacidade e segurança online para vítimas de violência doméstica, abuso sexual e assédio]]
-
-
-#### <u>English:</u>
-- Country:
-	- [[Portugal - Online privacy and security for Domestic Violence, Sexual Assault and harassment  victims]]
+#### <u>Countries:</u>
+- [[Portugal - Versão Portuguesa]]
+- [[Portugal - English Version]]
 
 
 > [!note] Current state

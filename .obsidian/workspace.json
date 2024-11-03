@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Europe/Portugal/Portugal - Online privacy and security for Domestic Violence, Sexual Assault and harassment  victims.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c14cfd9f0eaa730e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "24052f9376c54a65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Europe/Portugal/Portugal - Privacidade e segurança online para vítimas de violência doméstica, abuso sexual e assédio.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
         ]
@@ -57,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -72,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -80,14 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5
   },
   "right": {
     "id": "521079ac28fb2a8b",
@@ -103,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Europe/Portugal/Portugal - Online privacy and security for Domestic Violence, Sexual Assault and harassment  victims.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -120,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Europe/Portugal/Portugal - Online privacy and security for Domestic Violence, Sexual Assault and harassment  victims.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Homepage"
             }
           },
           {
@@ -134,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -143,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Europe/Portugal/Portugal - Online privacy and security for Domestic Violence, Sexual Assault and harassment  victims.md"
-              }
+                "file": "Homepage.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Homepage"
             }
           }
         ]
@@ -166,13 +164,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "259f7ec778a11924",
+  "active": "c880a94705b5f4c0",
   "lastOpenFiles": [
+    "README.md",
+    "Europe/Portugal/Portugal - Versão Portuguesa.md",
+    "Homepage.md",
+    "Europe/Portugal/Portugal - English Version.md",
     "publish.css",
     "theme.css",
-    "Europe/Portugal/Portugal - Privacidade e segurança online para vítimas de violência doméstica, abuso sexual e assédio.md",
-    "Europe/Portugal/Portugal - Online privacy and security for Domestic Violence, Sexual Assault and harassment  victims.md",
-    "Homepage.md",
     "Images/phishing_email.png",
     "Images/highlighted_pishing_email.png",
     "Images/qr_code.png",
@@ -185,7 +184,6 @@
     "Europe",
     "branches.json",
     "Europe/Portugal",
-    "README.md",
     "[[PT.md",
     "LICENSE",
     "Images",
